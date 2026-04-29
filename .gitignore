@@ -220,4 +220,7 @@ __marimo__/
 
 # Notes
 notes/
+.obsidian/# Private — only local
 .obsidian/
+weekly-logs/
+BLOG_DRAFTS.md
