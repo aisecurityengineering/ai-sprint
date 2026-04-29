@@ -1,17 +1,16 @@
-
 # AI Sprint
 
 > 8-month public sprint: cybersecurity offensive → AI Security Engineer.
 > No tutorials. No filters. Building in public, failing in public, learning in public.
 
-**Status:** Day 1 / 240 · Month 1 (Foundation: the reasoning layer)
+**Status:** Day 3 / 240 · Month 1 (Foundation: the reasoning layer)
 **Start:** 2026-04-26 · **Target hire:** 2026-12-26
 
 ---
 
 ## About me
 
-- OSCP-certified pentester
+- OSCP-certified pentester (also OSCP+, OSWP, AWS AI Practitioner)
 - 5 published CVEs under my name
 - Pivoting into AI Security Engineering: deploying LLMs to production and breaking them before attackers do.
 
@@ -23,7 +22,7 @@ Web: [aisecurityengineer.xyz](https://aisecurityengineer.xyz) · [nicolasgula.de
 
 | Month | Focus | Anchor |
 |-------|-------|--------|
-| 1     | Math + Python deep dive (Stats, Linear Algebra, NumPy/Pandas) | — |
+| 1     | Python deep dive + Math foundations (NumPy/Pandas/Stats) | — |
 | 2     | Classical ML | **Linear Regression** |
 | 2.5   | Intro MLOps (FastAPI, Docker) | — |
 | 3     | Deep Learning fundamentals | **Neural Network from Scratch** |
@@ -45,20 +44,28 @@ Web: [aisecurityengineer.xyz](https://aisecurityengineer.xyz) · [nicolasgula.de
 
 ## Repo structure
 
-- `01-math/` — stats, linear algebra, calculus notebooks
-- `02-python/` — exercises and patterns
-- `03-ml/` — classical ML + deep learning projects
-- `04-ai-security/` — LLM red-teaming, prompt injection, adversarial ML
-- `weekly-logs/` — public weekly journal
+- [`01-Python/`](./01-Python/) — Python deep dive: book chapters (Wes McKinney's *Python for Data Analysis*) + labs
+- [`02-Math/`](./02-Math/) — Linear algebra, calculus, statistics for ML
+- [`03-ML/`](./03-ML/) — Classical ML + deep learning projects
+- [`04-AI-Security/`](./04-AI-Security/) — LLM red-teaming, prompt injection, adversarial ML
+- [`weekly-logs/`](./weekly-logs/) — Weekly retrospectives, public
+- `notes/` — Obsidian vault (private; gitignored)
+
+---
+
+## Current learning resource (Month 1-3)
+
+**[Python for Data Analysis, 3rd Edition](https://wesmckinney.com/book/)** by Wes McKinney (creator of pandas). Free online edition. Covers Python refresher → NumPy → pandas → data wrangling → modeling intro.
+
+Progress tracked in [`01-Python/books/README.md`](./01-Python/books/README.md).
 
 ---
 
 ## Follow along
 
 - ⭐ Star this repo to follow the journey live
-- 🐦 Daily updates on [LinkedIn](https://www.linkedin.com/in/nicolasgula/)
-- 📺 Short videos on [YouTube](https://www.youtube.com/[EDIT-your-channel])
-- 📝 Long-form posts on [aisecurityengineer.xyz](https://aisecurityengineer.xyz)
+- 💼 Daily updates on [LinkedIn](https://www.linkedin.com/in/nicolasgula/)
+- 📝 Long-form posts on [aisecurityengineer.xyz](https://aisecurityengineer.xyz) (coming Month 2-3)
 
 ---
 
