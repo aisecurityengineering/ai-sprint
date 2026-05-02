@@ -14,8 +14,8 @@
 
 ### Chapters
 - [x] **Ch 01 — Preliminaries** · [`ch_01.ipynb`](./ch_01.ipynb) · started 2026-04-28
-- [ ] **Ch 02 — Python Language Basics, IPython, and Jupyter Notebooks** · [`ch_02.ipynb`](./ch_02.ipynb)
-- [ ] **Ch 03 — Built-In Data Structures, Functions, and Files**
+- [x] **Ch 02 — Python Language Basics, IPython, and Jupyter Notebooks** · [`ch_02.ipynb`](./ch_02.ipynb)
+- [x] **Ch 03 — Built-In Data Structures, Functions, and Files** [`ch_03.ipynb`](./ch_03.ipynb)
 - [ ] **Ch 04 — NumPy Basics: Arrays and Vectorized Computation**
 - [ ] **Ch 05 — Getting Started with pandas**
 - [ ] **Ch 06 — Data Loading, Storage, and File Formats**
